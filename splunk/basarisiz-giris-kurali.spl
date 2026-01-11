@@ -3,5 +3,5 @@ index=* source="WinEventLog:Security" EventCode=4625
 | where count > 3
 
 
-📌 Not:
-Kullanıcı alan adı (user) SIEM ortamına göre farklılık gösterebilir. PoC kapsamında mantık gösterimi amaçlanmıştır.
+📌 Note:
+The user domain name may vary depending on the SIEM environment. The purpose is to demonstrate the logic within the scope of the PoC.
