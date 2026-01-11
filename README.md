@@ -7,6 +7,12 @@ This study aims to demonstrate how a technical alarm generated at the SOC level 
 
 > ⚠️ This PoC was conducted entirely in a personal lab environment for educational and self-improvement purposes.
 
+---
+
+> 📄 This repo was created to technically support the SIEM PoC work described in the Medium article on the same topic.  
+> You can access the Medium article here:  
+> 🔗 [Add the Medium article link here]
+
 
 ---
 
