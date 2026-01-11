@@ -1,3 +1,7 @@
 index=* source="WinEventLog:Security" EventCode=4625
 | stats count by user
 | where count > 3
+
+
+##📌 Not:
+Kullanıcı alan adı (user) SIEM ortamına göre farklılık gösterebilir. PoC kapsamında mantık gösterimi amaçlanmıştır.
