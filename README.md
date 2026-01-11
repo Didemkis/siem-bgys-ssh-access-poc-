@@ -11,7 +11,7 @@ This study aims to demonstrate how a technical alarm generated at the SOC level 
 
 > 📄 This repo was created to technically support the SIEM PoC work described in the Medium article on the same topic.  
 > You can access the Medium article here:  
-> 🔗 [Add the Medium article link here]
+> 🔗 [(https://medium.com/@didem.kis/bir-siem-alarmı-bgysde-nasıl-kontrol-kanıtına-dönüşür-b7bb04bc289c)]
 
 
 ---
